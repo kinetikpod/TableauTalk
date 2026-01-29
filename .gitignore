@@ -1,2 +1,4 @@
 ./fastapi-server/.env
 ./next-client/.env.local
+./fastapi-server/venv
+
